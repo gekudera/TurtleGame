@@ -1,0 +1,10 @@
+C:\Users\Настя\Desktop\МОИ программы\БыстрыйСтартС#\GameTurtle\GameTurtle\bin\Debug\GameTurtle.exe.config
+C:\Users\Настя\Desktop\МОИ программы\БыстрыйСтартС#\GameTurtle\GameTurtle\bin\Debug\GameTurtle.exe
+C:\Users\Настя\Desktop\МОИ программы\БыстрыйСтартС#\GameTurtle\GameTurtle\bin\Debug\GameTurtle.pdb
+C:\Users\Настя\Desktop\МОИ программы\БыстрыйСтартС#\GameTurtle\GameTurtle\bin\Debug\SmallBasicLibrary.dll
+C:\Users\Настя\Desktop\МОИ программы\БыстрыйСтартС#\GameTurtle\GameTurtle\bin\Debug\SmallBasicLibrary.xml
+C:\Users\Настя\Desktop\МОИ программы\БыстрыйСтартС#\GameTurtle\GameTurtle\obj\Debug\GameTurtle.csprojAssemblyReference.cache
+C:\Users\Настя\Desktop\МОИ программы\БыстрыйСтартС#\GameTurtle\GameTurtle\obj\Debug\GameTurtle.csproj.CoreCompileInputs.cache
+C:\Users\Настя\Desktop\МОИ программы\БыстрыйСтартС#\GameTurtle\GameTurtle\obj\Debug\GameTurtle.csproj.CopyComplete
+C:\Users\Настя\Desktop\МОИ программы\БыстрыйСтартС#\GameTurtle\GameTurtle\obj\Debug\GameTurtle.exe
+C:\Users\Настя\Desktop\МОИ программы\БыстрыйСтартС#\GameTurtle\GameTurtle\obj\Debug\GameTurtle.pdb
